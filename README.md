@@ -2,7 +2,7 @@
 
 Projeto final do Curso App Development - Mobile oferecido pela Estação Hack From FacebookEstação
 
-App consiste em uma calculadore para calcular o IMC
+App consiste em uma calculadora de IMC
 
 ![image](https://user-images.githubusercontent.com/80546584/174400735-5890cdcb-1964-4fb1-a10f-2a8cdb0b509e.png)
 

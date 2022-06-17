@@ -1,11 +1,20 @@
-# Sample Snack app
+# App Peso Ideal
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Projeto final do Curso App Development - Mobile oferecido pela Estação Hack From FacebookEstação
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+App consiste em uma calculadore para calcular o IMC
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+![image](https://user-images.githubusercontent.com/80546584/174400735-5890cdcb-1964-4fb1-a10f-2a8cdb0b509e.png)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+![image](https://user-images.githubusercontent.com/80546584/174400874-e0e9a950-696a-40e8-a7c1-7f2d6712715f.png)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Conteúdo
+
+- Flexbox
+- UX Design
+- Introdução ao JSX
+- Components, props, styles e eventos
+- React Hooks (useState e useEffect)
+- React Navigation
+- Processo de Build
+
